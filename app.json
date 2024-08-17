@@ -20,15 +20,15 @@
             "required": false
          },
          "ThemeEmoji": {
-            "description": "Enter your favourite emoji",
+            "description": "🐈",
             "required": false
          },
          "Owner_Name": {
-            "description": "Enter owner's name",
+            "description": "Enter choudhary",
             "required": true
          },
          "Owner_Number": {
-            "description": "Enter Owner's Number with country code",
+            "description": "916377252603",
             "required": true
          },
          "Insta": {
